@@ -24,6 +24,7 @@
 hs_err_pid*
 
 #InteliJ
+.idea/dataSources
 .idea/modules.xml
 vcs.xml
 workspace.xml

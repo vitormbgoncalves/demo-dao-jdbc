@@ -3,7 +3,7 @@
 ## Descrição
 
 Este projeto disponibiliza uma aplicação console que implementa as operações básicas de CRUD (Create, Read, Update, Delete), juntamente de um banco de dados MySQL usando o driver JDBC.
-O Objetivo deste projeto foi estudar a integração do Java com banco de dados relacionais através do JDBC driver, e os diferentes tipos de operações e consultas.
+Este projeto teve como objetivos o estudo da integração do Java com banco de dados relacionais através do JDBC driver, o padrão de projeto DAO (Data Access Object) para separar a lógica de negócios da lógica de persistência de dados, e também os diferentes tipos de operações e consultas SQL.
 
 ## Execução
 

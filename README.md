@@ -7,20 +7,20 @@ Este projeto teve como objetivos o estudo da integração do Java com banco de d
 
 ## Execução
 
-1. Clone o projeto git através do terminal;
+1. Clone o projeto git através do terminal:
 
 ```shell
 git clone https://github.com/vitormbgoncalves/demo-dao-jdbc.git
 cd demo-dao-jdbc/src
 ```
 
-2. Para compilar o código do projeto execute o comando abaixo;
+2. Para compilar o código do projeto execute o comando abaixo:
 
 ```shell
 javac application/Program.java
 ```
 
-3. Para rodar a aplicação execute o comando abaixo
+3. Para rodar a aplicação execute o comando abaixo:
 
 ```shell
 java application/Program
